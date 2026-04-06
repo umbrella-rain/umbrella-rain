@@ -1,7 +1,7 @@
 # Hi there, I'm Danylo Blidar 👋
-### Python Developer | AI Engineer | Computer Science Student @ PJAIT
+### Python Developer | AI Engineer 
 
-I am a results-driven developer with a strong foundation in Python and backend technologies. Currently pursuing a degree in AI Engineering, I focus on building efficient APIs, optimizing performance, and creating user-centric software solutions.
+I am a results-driven developer with a strong foundation in Python and backend technologies.
 
 ---
 
@@ -32,10 +32,10 @@ I am a results-driven developer with a strong foundation in Python and backend t
 
 ### 🌍 Languages
 
+- **English:** Professional (C1)
+- **German:** Intermediate (B2)
 - **Ukrainian:** Native
 - **Russian:** Native
-- **English:** Professional (C1)
-- **German:** Intermediate
 
 ---
 
