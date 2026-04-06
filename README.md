@@ -7,7 +7,7 @@ I am a results-driven developer with a strong foundation in Python and backend t
 
 ### 🛠 Tech Stack
 
-- **Languages:** Python, C++, SQL, HTML/CSS
+- **Languages:** Python, SQL, HTML/CSS
 - **Backend:** FastAPI, Server-side logic, API Design
 - **Tools & Operations:** Git, Data Pipelines, Database Solutions
 - **Soft Skills:** Analytical Thinking, Goal-Oriented, Collaborative Mindset
