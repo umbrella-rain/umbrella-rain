@@ -41,7 +41,6 @@ I am a results-driven developer with a strong foundation in Python and backend t
 
 ### 📫 Connect with me:
 - **LinkedIn:** [danylo-blidar](https://pl.linkedin.com/in/danylo-blidar-4416bb365)
-- **Email:** danik.blidar@gmail.com
 - **Location:** Warsaw, Poland (Open to remote)
 
 ---
