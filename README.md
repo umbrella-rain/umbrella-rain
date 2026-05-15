@@ -1,47 +1,45 @@
-# Hi there, I'm Danylo Blidar 👋
-### Python Developer | AI Engineer 
+# Hey, I'm Danylo Blidar 👋
 
-I am a results-driven developer with a strong foundation in Python and backend technologies.
-
----
-
-### 🛠 Tech Stack
-
-- **Languages:** Python, SQL, HTML/CSS
-- **Backend:** FastAPI, Server-side logic, API Design
-- **Tools & Operations:** Git, Data Pipelines, Database Solutions
-- **Soft Skills:** Analytical Thinking, Goal-Oriented, Collaborative Mindset
+**Python Developer** based in Warsaw, Poland 🇵🇱  
+Building backends, automating things, learning AI Engineering.
 
 ---
 
-### 🚀 Experience Highlights
+## 🛠 Stack
 
-- **Python & Frontend Developer (Freelance):** Building high-performance APIs and intuitive user interfaces.
-- **GTM Service:** Developed logistics software to streamline transportation processes in a multi-language environment.
-- **Entrepreneurship:** Founded and led startups (SytAx, BliCore Supply), focusing on data analytics and process optimization.
+```
+Python · FastAPI · PostgreSQL · SQLAlchemy · Git · HTML/CSS
+```
 
----
-
-### 🎓 Education & Certifications
-
-- **Current:** B.Sc. in AI Engineering at Polish-Japanese Academy of Information Technology.
-- **Previous:** Computer Science at Lancaster University Leipzig.
-- **Certifications:** Harvard CS50, University of Michigan (Python), MIT (HTML & CSS).
+Learning: `PyTorch` · `Pandas` · `NumPy`
 
 ---
 
-### 🌍 Languages
+## 🚀 Projects
 
-- **English:** Professional (C1)
-- **German:** Intermediate (B2)
-- **Ukrainian:** Native
-- **Russian:** Native
+| Project | Description | Stack |
+|---|---|---|
+| [biz-task-tracker](https://github.com/umbrella-rain/biz-task-tracker) | Async task tracking system for business automation | FastAPI, PostgreSQL, SQLAlchemy |
+| [Rulette](https://github.com/umbrella-rain/Rulette) | European Roulette simulator with balance management and bet logic | Python |
+| [OOP-Python-Fundamentals](https://github.com/umbrella-rain/OOP-Python-Fundamentals) | OOP patterns: dynamic classes, state management, object interaction | Python |
+
+---
+
+## 🎓 Education
+
+- **B.Sc. AI Engineering** — Polish-Japanese Academy of IT, Warsaw *(in progress)*
+- **CS50** — Harvard University
+- **Python** — University of Michigan
+- **HTML & CSS** — MIT
 
 ---
 
-### 📫 Connect with me:
-- **LinkedIn:** [danylo-blidar](https://pl.linkedin.com/in/danylo-blidar-4416bb365)
-- **Location:** Warsaw, Poland (Open to remote)
+## 🌍 Languages
+
+`English (C1)` · `German (B2)` · `Ukrainian` · `Russian`
 
 ---
-*"Keep it up!"*
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-danylo--blidar-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/danylo-blidar/)
