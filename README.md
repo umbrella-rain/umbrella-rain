@@ -21,7 +21,7 @@ Learning: `PyTorch` · `Pandas` · `NumPy`
 |---|---|---|
 | [biz-task-tracker](https://github.com/umbrella-rain/biz-task-tracker) | Async task tracking system for business automation | FastAPI, PostgreSQL, SQLAlchemy |
 | [Rulette](https://github.com/umbrella-rain/Rulette) | European Roulette simulator with balance management and bet logic | Python |
-| [OOP-Python-Fundamentals](https://github.com/umbrella-rain/OOP-Python-Fundamentals) | OOP patterns: dynamic classes, state management, object interaction | Python |
+
 
 ---
 
